@@ -17,6 +17,12 @@
         "image": "https://images.klutzbanana.com/characters_official/cannibal_g.png",
         "ability": "You have the ability of the recently killed executee. If they are evil, you are poisoned until a good player dies by execution."
     },
+      "chef": {
+        "name": "Chef",
+        "team": "Townsfolk",
+        "image": "https://images.klutzbanana.com/characters_official/chef_g.png",
+        "ability": "You start knowing how many pairs of evil players there are."
+    },
      "dreamer": {
         "name": "Dreamer",
         "team": "Townsfolk",
@@ -40,6 +46,12 @@
         "team": "Townsfolk",
         "image": "https://images.klutzbanana.com/characters_official/gossip_g.png",
         "ability": "Each day, you may make a public statement. Tonight, if it was true, a player dies."
+    },
+         "librarian": {
+        "name": "Librarian",
+        "team": "Townsfolk",
+        "image": "https://images.klutzbanana.com/characters_official/librarian_g.png",
+        "ability": "You start knowing that 1 of 2 players is a particular Outsider. (Or that zero are in play.)"
     },
       "monk": {
         "name": "Monk",
@@ -76,6 +88,12 @@
         "team": "Townsfolk",
         "image": "https://images.klutzbanana.com/characters_official/sailor_g.png",
         "ability": "Each night, choose an alive player: either you or they are drunk until dusk. You can't die."
+    },
+      "steward": {
+        "name": "Steward",
+        "team": "Townsfolk",
+        "image": "https://images.klutzbanana.com/characters_official/steward_g.png",
+        "ability": "You start knowing 1 good player."
     },
       "villageidiot": {
         "name": "Village Idiot",
