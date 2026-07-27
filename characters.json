@@ -85,74 +85,74 @@
     },
     "hermit": {
         "name": "Hermit",
-        "team": "Outsider",
+        "team": "Outsiders",
         "image": "https://images.klutzbanana.com/characters_official/hermit_g.png",
         "ability": "You have all Outsider abilities. [-0 or -1 Outsider]"
     },
       "lunatic": {
         "name": "Lunatic",
-        "team": "Outsider",
+        "team": "Outsiders",
         "image": "https://images.klutzbanana.com/characters_official/lunatic_g.png",
         "ability": "You think you are a Demon, but you are not. The Demon knows who you are & who you choose at night."
     },
     "puzzlemaster": {
         "name": "Puzzlemaster",
-        "team": "Outsider",
+        "team": "Outsiders",
         "image": "https://images.klutzbanana.com/characters_official/puzzlemaster_g.png",
         "ability": "1 player is drunk, even if you die. If you guess (once) who it is, learn the Demon player, but guess wrong & get false info."
     },
      "recluse": {
         "name": "Recluse",
-        "team": "Outsider",
+        "team": "Outsiders",
         "image": "https://images.klutzbanana.com/characters_official/recluse_g.png",
         "ability": "You might register as evil & as a Minion or Demon, even if dead."
     },
          "assassin": {
         "name": "Assassin",
-        "team": "Minion",
+        "team": "Minions",
         "image": "https://images.klutzbanana.com/characters_official/assassin_e.png",
         "ability": "Once per game, at night*, choose a player: they die, even if for some reason they could not."
     },
        "devilsadvocate": {
         "name": "Devil's Advocate",
-        "team": "Minion",
+        "team": "Minions",
         "image": "https://images.klutzbanana.com/characters_official/devilsadvocate_e.png",
         "ability": "Each night, choose a living player (different to last night): if executed tomorrow, they don't die."
     },
        "marionette": {
         "name": "Marionette",
-        "team": "Minion",
+        "team": "Minions",
         "image": "https://images.klutzbanana.com/characters_official/marionette_e.png",
         "ability": "You think you are a good character, but you are not. The Demon knows who you are. [You neighbor the Demon]"
     },
        "summoner": {
         "name": "Summoner",
-        "team": "Minion",
+        "team": "Minions",
         "image": "https://images.klutzbanana.com/characters_official/summoner_e.png",
         "ability": "You get 3 bluffs. On the 3rd night, choose a player: they become an evil Demon of your choice. [No Demon]"
     },
        "xaan": {
         "name": "Xaan",
-        "team": "Minion",
+        "team": "Minions",
         "image": "https://images.klutzbanana.com/characters_official/xaan_e.png",
         "ability": "On night X, all Townsfolk are poisoned until dusk. [X Outsiders]"
     },
       "lleech": {
         "name": "Lleech",
-        "team": "Demon",
+        "team": "Demons",
         "image": "https://images.klutzbanana.com/characters_official/lleech_e.png",
         "ability": "Each night*, choose a player: they die. You start by choosing a player: they are poisoned. You die if & only if they are dead."
     },
      "lilmonsta": {
         "name": "Lil' Monsta",
-        "team": "Demon",
+        "team": "Demons",
         "image": "https://images.klutzbanana.com/characters_official/lilmonsta_e.png",
-        "ability": "Each night, Minions choose who babysits Lil' Monsta & "is the Demon". Each night*, a player might die. [+1 Minion]"
+        "ability": "Each night, Minions choose who babysits Lil' Monsta & \"is the Demon\". Each night*, a player might die. [+1 Minion]"
     },
       "nodashii": {
         "name": "No Dashii",
-        "team": "Demon",
+        "team": "Demons",
         "image": "https://images.klutzbanana.com/characters_official/nodashii_e.png",
         "ability": "Each night*, choose a player: they die. Your 2 Townsfolk neighbors are poisoned."
-    },
+    }
 }
