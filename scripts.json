@@ -1,11 +1,12 @@
 [
-    "scripts/from-the-depths.json",
-        "scripts/catfishing.json",
-        "scripts/extension-cord.json",
-    "scripts/damsel-of-distress.json",
-        "scripts/the-midnight-oasis.json",
-        "scripts/veiled-threats.json",
-        "scripts/the-minotaurs-labyrinth.json",
-            "scripts/show-of-hands.json",
-   "scripts/hermit-buffet.json"
+"scripts/from-the-depths.json",
+"scripts/catfishing.json",
+"scripts/extension-cord.json",
+"scripts/damsel-of-distress.json",
+"scripts/the-midnight-oasis.json",
+"scripts/veiled-threats.json",
+"scripts/the-minotaurs-labyrinth.json",
+"scripts/show-of-hands.json",
+"scripts/oops-all-outsiders.json",
+"scripts/hermit-buffet.json"
 ]
