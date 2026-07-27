@@ -5,11 +5,35 @@
         "image": "https://images.klutzbanana.com/characters_official/acrobat_g.png",
         "ability": "Each night*, choose a player: if they are or become drunk or poisoned tonight, you die."
     },
+    "alchemist": {
+        "name": "Alchemist",
+        "team": "Townsfolk",
+        "image": "https://images.klutzbanana.com/characters_official/alchemist_g.png",
+        "ability": "You have a Minion ability. When using this, the Storyteller may prompt you to choose differently."
+    },
+    "alsaahir": {
+        "name": "Alsaahir",
+        "team": "Townsfolk",
+        "image": "https://images.klutzbanana.com/characters_official/alsaahir_g.png",
+        "ability": "Each day, if you publicly guess which players are Minion(s) and which are Demon(s), good wins."
+    },
       "amnesiac": {
         "name": "Amnesiac",
         "team": "Townsfolk",
         "image": "https://images.klutzbanana.com/characters_official/amnesiac_g.png",
         "ability": "You do not know what your ability is. Each day, privately guess what it is: you learn how accurate you are."
+    },
+      "balloonist": {
+        "name": "Balloonist",
+        "team": "Townsfolk",
+        "image": "https://images.klutzbanana.com/characters_official/balloonist_g.png",
+        "ability": "Each night, you learn a player of a different character type than last night. [+0 or +1 Outsider]"
+    },
+      "banshee": {
+        "name": "Banshee",
+        "team": "Townsfolk",
+        "image": "https://images.klutzbanana.com/characters_official/banshee_g.png",
+        "ability": "If the Demon kills you, all players learn this. From now on, you may nominate twice per day and vote twice per nomination."
     },
       "cannibal": {
         "name": "Cannibal",
@@ -47,6 +71,12 @@
         "image": "https://images.klutzbanana.com/characters_official/gossip_g.png",
         "ability": "Each day, you may make a public statement. Tonight, if it was true, a player dies."
     },
+         "huntsman": {
+        "name": "Huntsman",
+        "team": "Townsfolk",
+        "image": "https://images.klutzbanana.com/characters_official/huntsman_g.png",
+        "ability": "Once per game, at night, choose a living player: the Damsel, if chosen, becomes a not-in-play Townsfolk. [+the Damsel]"
+    },
          "librarian": {
         "name": "Librarian",
         "team": "Townsfolk",
@@ -77,6 +107,18 @@
         "image": "https://images.klutzbanana.com/characters_official/philosopher_g.png",
         "ability": "Once per game, at night, choose a good character: gain that ability. If this character is in play, they are drunk."
     },
+     "pixie": {
+        "name": "Pixie",
+        "team": "Townsfolk",
+        "image": "https://images.klutzbanana.com/characters_official/pixie_g.png",
+        "ability": "You start knowing 1 in-play Townsfolk. If you were mad that you were this character, you gain their ability when they die."
+    },
+     "poppygrower": {
+        "name": "Poppy Grower",
+        "team": "Townsfolk",
+        "image": "https://images.klutzbanana.com/characters_official/poppygrower_g.png",
+        "ability": "Minions & Demons do not know each other. If you die, they learn who each other are that night."
+    },
      "ravenkeeper": {
         "name": "Ravenkeeper",
         "team": "Townsfolk",
@@ -89,6 +131,18 @@
         "image": "https://images.klutzbanana.com/characters_official/sailor_g.png",
         "ability": "Each night, choose an alive player: either you or they are drunk until dusk. You can't die."
     },
+      "shugenja": {
+        "name": "Shugenja",
+        "team": "Townsfolk",
+        "image": "https://images.klutzbanana.com/characters_official/shugenja_g.png",
+        "ability": "You start knowing if your closest evil player is clockwise or anti-clockwise. If equidistant, this info is arbitrary."
+    },
+      "snakecharmer": {
+        "name": "Snake Charmer",
+        "team": "Townsfolk",
+        "image": "https://images.klutzbanana.com/characters_official/snakecharmer_g.png",
+        "ability": "Each night, choose an alive player: a chosen Demon swaps characters & alignments with you & is then poisoned."
+    },
       "steward": {
         "name": "Steward",
         "team": "Townsfolk",
@@ -100,6 +154,18 @@
         "team": "Townsfolk",
         "image": "https://images.klutzbanana.com/characters_official/villageidiot_g.png",
         "ability": "Each night, choose a player: you learn their alignment. [+0 to +2 Village Idiots. 1 of the extras is drunk]"
+    },
+    "damsel": {
+        "name": "Damsel",
+        "team": "Outsiders",
+        "image": "https://images.klutzbanana.com/characters_official/damsel_g.png",
+        "ability": "All Minions know a Damsel is in play. If a Minion publicly guesses you (once), your team loses."
+    },
+    "drunk": {
+        "name": "Drunk",
+        "team": "Outsiders",
+        "image": "https://images.klutzbanana.com/characters_official/drunk_g.png",
+        "ability": "You do not know you are the Drunk. You think you are a Townsfolk character, but you are not."
     },
     "hermit": {
         "name": "Hermit",
@@ -125,17 +191,41 @@
         "image": "https://images.klutzbanana.com/characters_official/recluse_g.png",
         "ability": "You might register as evil & as a Minion or Demon, even if dead."
     },
+     "zealot": {
+        "name": "Zealot",
+        "team": "Outsiders",
+        "image": "https://images.klutzbanana.com/characters_official/zealot_g.png",
+        "ability": "If there are 5 or more players alive, you must vote for every nomination."
+    },
          "assassin": {
         "name": "Assassin",
         "team": "Minions",
         "image": "https://images.klutzbanana.com/characters_official/assassin_e.png",
         "ability": "Once per game, at night*, choose a player: they die, even if for some reason they could not."
     },
+       "boffin": {
+        "name": "Boffin",
+        "team": "Minions",
+        "image": "https://images.klutzbanana.com/characters_official/boffin_e.png",
+        "ability": "The Demon (even if drunk or poisoned) has a not-in-play good character’s ability. You both know which."
+    },
        "devilsadvocate": {
         "name": "Devil's Advocate",
         "team": "Minions",
         "image": "https://images.klutzbanana.com/characters_official/devilsadvocate_e.png",
         "ability": "Each night, choose a living player (different to last night): if executed tomorrow, they don't die."
+    },
+       "goblin": {
+        "name": "Goblin",
+        "team": "Minions",
+        "image": "https://images.klutzbanana.com/characters_official/goblin_e.png",
+        "ability": "If you publicly claim to be the Goblin when nominated & are executed that day, your team wins."
+    },
+       "godfather": {
+        "name": "Godfather",
+        "team": "Minions",
+        "image": "https://images.klutzbanana.com/characters_official/godfather_e.png",
+        "ability": "You start knowing which Outsiders are in play. If 1 died today, choose a player tonight: they die. [-1 or +1 Outsider]"
     },
        "marionette": {
         "name": "Marionette",
@@ -155,6 +245,18 @@
         "image": "https://images.klutzbanana.com/characters_official/xaan_e.png",
         "ability": "On night X, all Townsfolk are poisoned until dusk. [X Outsiders]"
     },
+      "fanggu": {
+        "name": "Fang Gu",
+        "team": "Demons",
+        "image": "https://images.klutzbanana.com/characters_official/fanggu_e.png",
+        "ability": "Each night*, choose a player: they die. The 1st Outsider this kills becomes an evil Fang Gu & you die instead. [+1 Outsider]"
+    },
+      "imp": {
+        "name": "Imp",
+        "team": "Demons",
+        "image": "https://images.klutzbanana.com/characters_official/imp_e.png",
+        "ability": "Each night*, choose a player: they die. If you kill yourself this way, a Minion becomes the Imp."
+    },
       "lleech": {
         "name": "Lleech",
         "team": "Demons",
@@ -172,5 +274,11 @@
         "team": "Demons",
         "image": "https://images.klutzbanana.com/characters_official/nodashii_e.png",
         "ability": "Each night*, choose a player: they die. Your 2 Townsfolk neighbors are poisoned."
+    },
+      "vigormortis": {
+        "name": "Vigormortis",
+        "team": "Demons",
+        "image": "https://images.klutzbanana.com/characters_official/vigormortis_e.png",
+        "ability": "Each night*, choose a player: they die. Minions you kill keep their ability & poison 1 Townsfolk neighbor. [-1 Outsider]"
     }
 }
