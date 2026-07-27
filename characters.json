@@ -3,264 +3,308 @@
         "name": "Acrobat",
         "team": "Townsfolk",
         "image": "https://images.klutzbanana.com/characters_official/acrobat_g.png",
+            "link": "https://betterbotcwiki.weebly.com/acrobat.html",
         "ability": "Each night*, choose a player: if they are or become drunk or poisoned tonight, you die."
     },
     "alchemist": {
         "name": "Alchemist",
         "team": "Townsfolk",
         "image": "https://images.klutzbanana.com/characters_official/alchemist_g.png",
+            "link": "https://betterbotcwiki.weebly.com/alchemist.html",
         "ability": "You have a Minion ability. When using this, the Storyteller may prompt you to choose differently."
     },
     "alsaahir": {
         "name": "Alsaahir",
         "team": "Townsfolk",
         "image": "https://images.klutzbanana.com/characters_official/alsaahir_g.png",
+                "link": "https://betterbotcwiki.weebly.com/alsaahir.html",
         "ability": "Each day, if you publicly guess which players are Minion(s) and which are Demon(s), good wins."
     },
       "amnesiac": {
         "name": "Amnesiac",
         "team": "Townsfolk",
         "image": "https://images.klutzbanana.com/characters_official/amnesiac_g.png",
+                    "link": "https://betterbotcwiki.weebly.com/amnesiac.html",
         "ability": "You do not know what your ability is. Each day, privately guess what it is: you learn how accurate you are."
     },
       "balloonist": {
         "name": "Balloonist",
         "team": "Townsfolk",
         "image": "https://images.klutzbanana.com/characters_official/balloonist_g.png",
+                    "link": "https://betterbotcwiki.weebly.com/balloonist.html",
         "ability": "Each night, you learn a player of a different character type than last night. [+0 or +1 Outsider]"
     },
       "banshee": {
         "name": "Banshee",
         "team": "Townsfolk",
         "image": "https://images.klutzbanana.com/characters_official/banshee_g.png",
+                "link": "https://betterbotcwiki.weebly.com/banshee.html",
         "ability": "If the Demon kills you, all players learn this. From now on, you may nominate twice per day and vote twice per nomination."
     },
       "cannibal": {
         "name": "Cannibal",
         "team": "Townsfolk",
         "image": "https://images.klutzbanana.com/characters_official/cannibal_g.png",
+          "link": "https://betterbotcwiki.weebly.com/cannibal.html",
         "ability": "You have the ability of the recently killed executee. If they are evil, you are poisoned until a good player dies by execution."
     },
       "chef": {
         "name": "Chef",
         "team": "Townsfolk",
         "image": "https://images.klutzbanana.com/characters_official/chef_g.png",
+          "link": "https://betterbotcwiki.weebly.com/chef.html",
         "ability": "You start knowing how many pairs of evil players there are."
     },
      "dreamer": {
         "name": "Dreamer",
         "team": "Townsfolk",
         "image": "https://images.klutzbanana.com/characters_official/dreamer_g.png",
+         "link": "https://betterbotcwiki.weebly.com/dreamer.html",
         "ability": "Each night, choose a player (not yourself or Travellers): you learn 1 good & 1 evil character, 1 of which is correct."
     },
          "fisherman": {
         "name": "Fisherman",
         "team": "Townsfolk",
         "image": "https://images.klutzbanana.com/characters_official/fisherman_g.png",
+             "link": "https://betterbotcwiki.weebly.com/fisherman.html",
         "ability": "Once per game, during the day, visit the Storyteller for some advice to help your team win."
     },
        "gambler": {
         "name": "Gambler",
         "team": "Townsfolk",
         "image": "https://images.klutzbanana.com/characters_official/gambler_g.png",
+           "link": "https://betterbotcwiki.weebly.com/gambler.html",
         "ability": "Each night*, choose a player & guess their character: if you guess wrong, you die."
     },
          "gossip": {
         "name": "Gossip",
         "team": "Townsfolk",
         "image": "https://images.klutzbanana.com/characters_official/gossip_g.png",
+             "link": "https://betterbotcwiki.weebly.com/gossip.html",
         "ability": "Each day, you may make a public statement. Tonight, if it was true, a player dies."
     },
          "huntsman": {
         "name": "Huntsman",
         "team": "Townsfolk",
         "image": "https://images.klutzbanana.com/characters_official/huntsman_g.png",
+             "link": "https://betterbotcwiki.weebly.com/huntsman.html",
         "ability": "Once per game, at night, choose a living player: the Damsel, if chosen, becomes a not-in-play Townsfolk. [+the Damsel]"
     },
          "librarian": {
         "name": "Librarian",
         "team": "Townsfolk",
         "image": "https://images.klutzbanana.com/characters_official/librarian_g.png",
+             "link": "https://betterbotcwiki.weebly.com/librarian.html",
         "ability": "You start knowing that 1 of 2 players is a particular Outsider. (Or that zero are in play.)"
     },
       "monk": {
         "name": "Monk",
         "team": "Townsfolk",
         "image": "https://images.klutzbanana.com/characters_official/monk_g.png",
+          "link": "https://betterbotcwiki.weebly.com/monk.html",
         "ability": "Each night*, choose a player (not yourself): they are safe from the Demon tonight."
     },
       "nightwatchman": {
         "name": "Nightwatchman",
         "team": "Townsfolk",
         "image": "https://images.klutzbanana.com/characters_official/nightwatchman_g.png",
+          "link": "https://betterbotcwiki.weebly.com/nightwatchman.html",
         "ability": "Once per game, at night, choose a player: they learn you are the Nightwatchman."
     },
     "noble": {
         "name": "Noble",
         "team": "Townsfolk",
         "image": "https://images.klutzbanana.com/characters_official/noble_g.png",
+        "link": "https://betterbotcwiki.weebly.com/noble.html",
         "ability": "You start knowing 3 players, 1 and only 1 of which is evil."
     },
       "philosopher": {
         "name": "Philosopher",
         "team": "Townsfolk",
         "image": "https://images.klutzbanana.com/characters_official/philosopher_g.png",
+          "link": "https://betterbotcwiki.weebly.com/philosopher.html",
         "ability": "Once per game, at night, choose a good character: gain that ability. If this character is in play, they are drunk."
     },
      "pixie": {
         "name": "Pixie",
         "team": "Townsfolk",
         "image": "https://images.klutzbanana.com/characters_official/pixie_g.png",
+         "link": "https://betterbotcwiki.weebly.com/pixie.html",
         "ability": "You start knowing 1 in-play Townsfolk. If you were mad that you were this character, you gain their ability when they die."
     },
      "poppygrower": {
         "name": "Poppy Grower",
         "team": "Townsfolk",
         "image": "https://images.klutzbanana.com/characters_official/poppygrower_g.png",
+         "link": "https://betterbotcwiki.weebly.com/poppy-grower.html",
         "ability": "Minions & Demons do not know each other. If you die, they learn who each other are that night."
     },
      "ravenkeeper": {
         "name": "Ravenkeeper",
         "team": "Townsfolk",
         "image": "https://images.klutzbanana.com/characters_official/ravenkeeper_g.png",
+         "link": "https://betterbotcwiki.weebly.com/ravenkeeper.html",
         "ability": "If you die at night, you are woken to choose a player: you learn their character."
     },
       "sailor": {
         "name": "Sailor",
         "team": "Townsfolk",
         "image": "https://images.klutzbanana.com/characters_official/sailor_g.png",
+          "link": "https://betterbotcwiki.weebly.com/sailor.html",
         "ability": "Each night, choose an alive player: either you or they are drunk until dusk. You can't die."
     },
       "shugenja": {
         "name": "Shugenja",
         "team": "Townsfolk",
         "image": "https://images.klutzbanana.com/characters_official/shugenja_g.png",
+          "link": "https://betterbotcwiki.weebly.com/shugenja.html",
         "ability": "You start knowing if your closest evil player is clockwise or anti-clockwise. If equidistant, this info is arbitrary."
     },
       "snakecharmer": {
         "name": "Snake Charmer",
         "team": "Townsfolk",
         "image": "https://images.klutzbanana.com/characters_official/snakecharmer_g.png",
+          "link": "https://betterbotcwiki.weebly.com/snake-charmer.html",
         "ability": "Each night, choose an alive player: a chosen Demon swaps characters & alignments with you & is then poisoned."
     },
       "steward": {
         "name": "Steward",
         "team": "Townsfolk",
         "image": "https://images.klutzbanana.com/characters_official/steward_g.png",
+          "link": "https://betterbotcwiki.weebly.com/steward.html",
         "ability": "You start knowing 1 good player."
     },
       "villageidiot": {
         "name": "Village Idiot",
         "team": "Townsfolk",
         "image": "https://images.klutzbanana.com/characters_official/villageidiot_g.png",
+          "link": "https://betterbotcwiki.weebly.com/village-idiot.html",
         "ability": "Each night, choose a player: you learn their alignment. [+0 to +2 Village Idiots. 1 of the extras is drunk]"
     },
     "damsel": {
         "name": "Damsel",
         "team": "Outsiders",
         "image": "https://images.klutzbanana.com/characters_official/damsel_g.png",
+        "link": "https://betterbotcwiki.weebly.com/damsel.html",
         "ability": "All Minions know a Damsel is in play. If a Minion publicly guesses you (once), your team loses."
     },
     "drunk": {
         "name": "Drunk",
         "team": "Outsiders",
         "image": "https://images.klutzbanana.com/characters_official/drunk_g.png",
+        "link": "https://betterbotcwiki.weebly.com/drunk.html",
         "ability": "You do not know you are the Drunk. You think you are a Townsfolk character, but you are not."
     },
     "hermit": {
         "name": "Hermit",
         "team": "Outsiders",
         "image": "https://images.klutzbanana.com/characters_official/hermit_g.png",
+        "link": "https://betterbotcwiki.weebly.com/hermit.html",
         "ability": "You have all Outsider abilities. [-0 or -1 Outsider]"
     },
       "lunatic": {
         "name": "Lunatic",
         "team": "Outsiders",
         "image": "https://images.klutzbanana.com/characters_official/lunatic_g.png",
+          "link": "https://betterbotcwiki.weebly.com/lunatic.html",
         "ability": "You think you are a Demon, but you are not. The Demon knows who you are & who you choose at night."
     },
     "puzzlemaster": {
         "name": "Puzzlemaster",
         "team": "Outsiders",
         "image": "https://images.klutzbanana.com/characters_official/puzzlemaster_g.png",
+        "link": "https://betterbotcwiki.weebly.com/puzzlemaster.html",
         "ability": "1 player is drunk, even if you die. If you guess (once) who it is, learn the Demon player, but guess wrong & get false info."
     },
      "recluse": {
         "name": "Recluse",
         "team": "Outsiders",
         "image": "https://images.klutzbanana.com/characters_official/recluse_g.png",
+         "link": "https://betterbotcwiki.weebly.com/recluse.html",
         "ability": "You might register as evil & as a Minion or Demon, even if dead."
     },
      "zealot": {
         "name": "Zealot",
         "team": "Outsiders",
         "image": "https://images.klutzbanana.com/characters_official/zealot_g.png",
+         "link": "https://betterbotcwiki.weebly.com/zealot.html",
         "ability": "If there are 5 or more players alive, you must vote for every nomination."
     },
          "assassin": {
         "name": "Assassin",
         "team": "Minions",
         "image": "https://images.klutzbanana.com/characters_official/assassin_e.png",
+             "link": "https://betterbotcwiki.weebly.com/assassin.html",
         "ability": "Once per game, at night*, choose a player: they die, even if for some reason they could not."
     },
        "boffin": {
         "name": "Boffin",
         "team": "Minions",
         "image": "https://images.klutzbanana.com/characters_official/boffin_e.png",
+           "link": "https://betterbotcwiki.weebly.com/boffin.html",
         "ability": "The Demon (even if drunk or poisoned) has a not-in-play good character’s ability. You both know which."
     },
        "devilsadvocate": {
         "name": "Devil's Advocate",
         "team": "Minions",
         "image": "https://images.klutzbanana.com/characters_official/devilsadvocate_e.png",
+           "link": "https://betterbotcwiki.weebly.com/devils-advocate.html",
         "ability": "Each night, choose a living player (different to last night): if executed tomorrow, they don't die."
     },
        "goblin": {
         "name": "Goblin",
         "team": "Minions",
         "image": "https://images.klutzbanana.com/characters_official/goblin_e.png",
+           "link": "https://betterbotcwiki.weebly.com/goblin.html",
         "ability": "If you publicly claim to be the Goblin when nominated & are executed that day, your team wins."
     },
        "godfather": {
         "name": "Godfather",
         "team": "Minions",
         "image": "https://images.klutzbanana.com/characters_official/godfather_e.png",
+           "link": "https://betterbotcwiki.weebly.com/godfather.html",
         "ability": "You start knowing which Outsiders are in play. If 1 died today, choose a player tonight: they die. [-1 or +1 Outsider]"
     },
        "marionette": {
         "name": "Marionette",
         "team": "Minions",
         "image": "https://images.klutzbanana.com/characters_official/marionette_e.png",
+           "link": "https://betterbotcwiki.weebly.com/marionette.html",
         "ability": "You think you are a good character, but you are not. The Demon knows who you are. [You neighbor the Demon]"
     },
        "summoner": {
         "name": "Summoner",
         "team": "Minions",
         "image": "https://images.klutzbanana.com/characters_official/summoner_e.png",
+           "link": "https://betterbotcwiki.weebly.com/summoner.html",
         "ability": "You get 3 bluffs. On the 3rd night, choose a player: they become an evil Demon of your choice. [No Demon]"
     },
        "xaan": {
         "name": "Xaan",
         "team": "Minions",
         "image": "https://images.klutzbanana.com/characters_official/xaan_e.png",
+           "link": "https://betterbotcwiki.weebly.com/xaan.html",
         "ability": "On night X, all Townsfolk are poisoned until dusk. [X Outsiders]"
     },
       "fanggu": {
         "name": "Fang Gu",
         "team": "Demons",
         "image": "https://images.klutzbanana.com/characters_official/fanggu_e.png",
+          "link": "https://betterbotcwiki.weebly.com/fang-gu.html",
         "ability": "Each night*, choose a player: they die. The 1st Outsider this kills becomes an evil Fang Gu & you die instead. [+1 Outsider]"
     },
       "imp": {
         "name": "Imp",
         "team": "Demons",
         "image": "https://images.klutzbanana.com/characters_official/imp_e.png",
+          "link": "https://betterbotcwiki.weebly.com/imp.html",
         "ability": "Each night*, choose a player: they die. If you kill yourself this way, a Minion becomes the Imp."
     },
       "lleech": {
         "name": "Lleech",
         "team": "Demons",
         "image": "https://images.klutzbanana.com/characters_official/lleech_e.png",
+          "link": "https://betterbotcwiki.weebly.com/lleech.html",
         "ability": "Each night*, choose a player: they die. You start by choosing a player: they are poisoned. You die if & only if they are dead."
     },
      "lilmonsta": {
@@ -274,12 +318,14 @@
         "name": "No Dashii",
         "team": "Demons",
         "image": "https://images.klutzbanana.com/characters_official/nodashii_e.png",
+          "link": "https://betterbotcwiki.weebly.com/no-dashii.html",
         "ability": "Each night*, choose a player: they die. Your 2 Townsfolk neighbors are poisoned."
     },
       "vigormortis": {
         "name": "Vigormortis",
         "team": "Demons",
         "image": "https://images.klutzbanana.com/characters_official/vigormortis_e.png",
+          "link": "https://betterbotcwiki.weebly.com/vigormortis.html",
         "ability": "Each night*, choose a player: they die. Minions you kill keep their ability & poison 1 Townsfolk neighbor. [-1 Outsider]"
     }
 }
