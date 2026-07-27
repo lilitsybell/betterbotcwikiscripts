@@ -47,7 +47,7 @@
         "image": "https://images.klutzbanana.com/characters_official/banshee_g.png",
         "ability": "If the Demon kills you, all players learn this. From now on, you may nominate twice per day and vote twice per nomination."
     },
-      "Bounty Hunter": {
+      "bountyhunter": {
         "name": "Bounty Hunter",
         "team": "Townsfolk",
         "image": "https://images.klutzbanana.com/characters_official/bountyhunter_g.png",
@@ -934,12 +934,6 @@
         "team": "Travellers",
         "image": "https://images.klutzbanana.com/characters_official/voudon.png",
         "ability": "Only you & the dead can vote. They don't need a vote token to do so. A 50% majority isn't required."
-    },
-      "thief": {
-        "name": "Thief",
-        "team": "Travellers",
-        "image": "https://images.klutzbanana.com/characters_official/thief.png",
-        "ability": "Each night, choose a player (not yourself): their vote counts negatively tomorrow."
     },
       "angel": {
         "name": "Angel",
