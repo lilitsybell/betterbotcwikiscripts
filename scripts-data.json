@@ -85,6 +85,42 @@
   [
     {
       "id": "_meta",
+      "author": "vaticidalprophet",
+      "name": "Clockwork Cyborg"
+    },
+    "librarian",
+    "pixie",
+    "general",
+    "mathematician",
+    "fortuneteller",
+    "dreamer",
+    "towncrier",
+    "oracle",
+    "savant",
+    "alsaahir",
+    "seamstress",
+    "amnesiac",
+    "banshee",
+    "recluse",
+    "plaguedoctor",
+    "moonchild",
+    "politician",
+    "damsel",
+    "puzzlemaster",
+    "godfather",
+    "witch",
+    "cerenovus",
+    "widow",
+    "scarletwoman",
+    "kazali",
+    {
+      "id": "_generator",
+      "size": "full"
+    }
+  ],
+  [
+    {
+      "id": "_meta",
       "author": "BBBence1111",
       "name": "Damsel of Distress"
     },
