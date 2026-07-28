@@ -216,6 +216,15 @@ var searchResults = document.getElementById("searchResults");
 
 if(searchBox && searchResults){
 
+searchBox.addEventListener("keydown", function(e){
+    if(e.key === "Enter"){
+        var firstResult = searchResults.querySelector(".search-item");
+        if(firstResult){
+            firstResult.click();
+        }
+    }
+});
+
 searchBox.addEventListener("input", function(){
 var searchTerm = searchBox.value.toLowerCase().trim();
     searchResults.innerHTML = "";
@@ -288,15 +297,6 @@ document.addEventListener("click", function(e){
 
     }
 
-});
-
-searchBox.addEventListener("keydown", function(e){
-    if(e.key === "Enter"){
-        var firstResult = searchResults.querySelector(".search-item");
-        if(firstResult){
-            firstResult.click();
-        }
-    }
 });
 
 // Move search bar into sidebar
