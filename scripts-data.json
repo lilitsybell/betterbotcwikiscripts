@@ -34,7 +34,11 @@
     "barista",
     "beggar",
     "bonecollector",
-    "harlot"
+    "harlot",
+    {
+      "id": "_generator",
+      "size": "full"
+    }
   ],
   [
     {
@@ -72,7 +76,11 @@
     "nodashii",
     "imp",
     "lleech",
-    "bootlegger"
+    "bootlegger",
+    {
+      "id": "_generator",
+      "size": "full"
+    }
   ],
   [
     {
@@ -103,7 +111,11 @@
     "boffin",
     "imp",
     "vigormortis",
-    "fanggu"
+    "fanggu",
+    {
+      "id": "_generator",
+      "size": "full"
+    }
   ],
   [
     {
@@ -648,6 +660,10 @@
         "Poisoned"
       ],
       "setup": true
+    },
+    {
+      "id": "_generator",
+      "size": "full"
     }
   ],
   [
@@ -679,7 +695,11 @@
     "devilsadvocate",
     "spy",
     "scarletwoman",
-    "imp"
+    "imp",
+    {
+      "id": "_generator",
+      "size": "full"
+    }
   ],
   [
     {
@@ -717,7 +737,11 @@
     "matron",
     "bonecollector",
     "bishop",
-    "sentinel"
+    "sentinel",
+    {
+      "id": "_generator",
+      "size": "full"
+    }
   ],
   [
     {
@@ -755,7 +779,11 @@
     "nodashii",
     "lleech",
     "gardener",
-    "bootlegger"
+    "bootlegger",
+    {
+      "id": "_generator",
+      "size": "full"
+    }
   ],
   [
     {
@@ -811,7 +839,11 @@
     "no_dashii",
     "ojo",
     "vigormortis",
-    "vortox"
+    "vortox",
+    {
+      "id": "_generator",
+      "size": "full"
+    }
   ],
   [
     {
@@ -852,7 +884,11 @@
     "apprentice",
     "bishop",
     "voudon",
-    "bootlegger"
+    "bootlegger",
+    {
+      "id": "_generator",
+      "size": "full"
+    }
   ],
   [
     {
@@ -882,7 +918,11 @@
     "baron",
     "goblin",
     "marionette",
-    "leviathan"
+    "leviathan",
+    {
+      "id": "_generator",
+      "size": "full"
+    }
   ],
   [
     {
@@ -942,7 +982,11 @@
     "fanggu",
     "kazali",
     "gardener",
-    "bootlegger"
+    "bootlegger",
+    {
+      "id": "_generator",
+      "size": "full"
+    }
   ],
   [
     {
@@ -974,7 +1018,11 @@
     "boomdandy",
     "lilmonsta",
     "legion",
-    "vortox"
+    "vortox",
+    {
+      "id": "_generator",
+      "size": "full"
+    }
   ],
   [
     {
@@ -1010,7 +1058,11 @@
     "pukka",
     "imp",
     "fanggu",
-    "bootlegger"
+    "bootlegger",
+    {
+      "id": "_generator",
+      "size": "full"
+    }
   ],
   [
     {
@@ -1080,7 +1132,11 @@
     "vigormortis",
     "fanggu",
     "bootlegger",
-    "stormcatcher"
+    "stormcatcher",
+    {
+      "id": "_generator",
+      "size": "full"
+    }
   ],
   [
     {
@@ -1110,7 +1166,11 @@
     "baron",
     "scarletwoman",
     "marionette",
-    "imp"
+    "imp",
+    {
+      "id": "_generator",
+      "size": "full"
+    }
   ],
   [
     {
@@ -1200,7 +1260,11 @@
     "baron",
     "fanggu",
     "vigormortis",
-    "bootlegger"
+    "bootlegger",
+    {
+      "id": "_generator",
+      "size": "full"
+    }
   ],
   [
     {
@@ -1230,7 +1294,11 @@
     "pithag",
     "wraith",
     "boomdandy",
-    "lleech"
+    "lleech",
+    {
+      "id": "_generator",
+      "size": "full"
+    }
   ],
   [
     {
@@ -1379,7 +1447,11 @@
     "riot",
     "yaggababble",
     "gardener",
-    "spiritofivory"
+    "spiritofivory",
+    {
+      "id": "_generator",
+      "size": "full"
+    }
   ],
   [
     {
@@ -1494,7 +1566,11 @@
     },
     "po",
     "lleech",
-    "bootlegger"
+    "bootlegger",
+    {
+      "id": "_generator",
+      "size": "full"
+    }
   ],
   [
     {
@@ -1527,7 +1603,11 @@
     "alhadikhia",
     "vigormortis",
     "spiritofivory",
-    "sentinel"
+    "sentinel",
+    {
+      "id": "_generator",
+      "size": "full"
+    }
   ],
   [
     {
@@ -1560,7 +1640,11 @@
     "shabaloth",
     "po",
     "fanggu",
-    "knaves"
+    "knaves",
+    {
+      "id": "_generator",
+      "size": "full"
+    }
   ],
   [
     {
@@ -1598,7 +1682,11 @@
     "butcher",
     "gangster",
     "voudon",
-    "sentinel"
+    "sentinel",
+    {
+      "id": "_generator",
+      "size": "full"
+    }
   ],
   [
     {
@@ -1628,7 +1716,11 @@
     "mezepheles",
     "marionette",
     "imp",
-    "vigormortis"
+    "vigormortis",
+    {
+      "id": "_generator",
+      "size": "full"
+    }
   ],
   [
     {
@@ -1657,7 +1749,11 @@
     "cerenovus",
     "marionette",
     "goblin",
-    "leviathan"
+    "leviathan",
+    {
+      "id": "_generator",
+      "size": "full"
+    }
   ],
   [
     {
@@ -1695,6 +1791,10 @@
     "vigormortis",
     "fanggu",
     "tor",
-    "bootlegger"
+    "bootlegger",
+    {
+      "id": "_generator",
+      "size": "full"
+    }
   ]
 ]
