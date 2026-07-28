@@ -1308,6 +1308,28 @@
   [
     {
       "id": "_meta",
+      "author": "Steven Medway",
+      "name": "No Greater Joy"
+    },
+    "clockmaker",
+    "investigator",
+    "empath",
+    "chambermaid",
+    "artist",
+    "sage",
+    "drunk",
+    "klutz",
+    "scarletwoman",
+    "baron",
+    "imp",
+    {
+      "id": "_generator",
+      "size": "teensy"
+    }
+  ],
+  [
+    {
+      "id": "_meta",
       "author": "Andrew Pichot",
       "name": "No Roles Barred"
     },
