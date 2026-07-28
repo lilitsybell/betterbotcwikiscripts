@@ -1836,5 +1836,47 @@
       "id": "_generator",
       "size": "full"
     }
+  ],
+  [
+    {
+      "id": "_meta",
+      "author": "Aero",
+      "name": "Whose Cult Is It Anyway?"
+    },
+    "noble",
+    "pixie",
+    "balloonist",
+    "preacher",
+    "villageidiot",
+    "king",
+    "cultleader",
+    "oracle",
+    "lycanthrope",
+    "savant",
+    "seamstress",
+    "cannibal",
+    "choirboy",
+    "recluse",
+    "mutant",
+    "zealot",
+    "puzzlemaster",
+    "witch",
+    "cerenovus",
+    "fearmonger",
+    "goblin",
+    "lilmonsta",
+    "nodashii",
+    "fanggu",
+    "lordoftyphon",
+    "harlot",
+    "butcher",
+    "bonecollector",
+    "beggar",
+    "bishop",
+    "stormcatcher",
+    {
+      "id": "_generator",
+      "size": "full"
+    }
   ]
 ]
