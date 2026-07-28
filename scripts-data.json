@@ -1680,6 +1680,43 @@
   [
     {
       "id": "_meta",
+      "author": "Aero",
+      "name": "Separation Of Church and State"
+    },
+    "knight",
+    "grandmother",
+    "highpriestess",
+    "dreamer",
+    "mathematician",
+    "towncrier",
+    "gossip",
+    "amnesiac",
+    "juggler",
+    "engineer",
+    "pacifist",
+    "ravenkeeper",
+    "mayor",
+    "butler",
+    "tinker",
+    "plaguedoctor",
+    "moonchild",
+    "widow",
+    "godfather",
+    "harpy",
+    "assassin",
+    "scarletwoman",
+    "lleech",
+    "vigormortis",
+    "legion",
+    "stormcatcher",
+    {
+      "id": "_generator",
+      "size": "full"
+    }
+  ],
+  [
+    {
+      "id": "_meta",
       "author": "seaplus",
       "name": "Show of Hands"
     },
