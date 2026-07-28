@@ -313,7 +313,8 @@ setInterval(function(){
 
         }
 
+        search.style.visibility = "visible";
+
     }
 
-},500);
-
+},100);
