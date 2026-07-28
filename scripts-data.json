@@ -43,6 +43,29 @@
   [
     {
       "id": "_meta",
+      "author": "OJ",
+      "name": "A Lleech of Distrust"
+    },
+    "pixie",
+    "undertaker",
+    "exorcist",
+    "fisherman",
+    "slayer",
+    "juggler",
+    "drunk",
+    "lunatic",
+    "devilsadvocate",
+    "marionette",
+    "lleech",
+    "sentinel",
+    {
+      "id": "_generator",
+      "size": "teensy"
+    }
+  ],
+  [
+    {
+      "id": "_meta",
       "author": "mist",
       "name": "Buyer's Remorse",
       "bootlegger": [
