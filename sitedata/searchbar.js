@@ -307,9 +307,15 @@ function moveSearchBar(){
 
     if(search && logo){
 
+        // Hide during movement
+        search.style.opacity = "0";
+
         logo.insertAdjacentElement("afterend", search);
 
-        search.style.opacity = "1";
+        // Show after it is placed
+        setTimeout(function(){
+            search.style.opacity = "1";
+        },50);
 
         return true;
 
@@ -320,17 +326,13 @@ function moveSearchBar(){
 }
 
 
-// Wait for Weebly to finish loading
-document.addEventListener("DOMContentLoaded", function(){
+// Keep checking until Weebly finishes loading
+var moveSearchTimer = setInterval(function(){
 
-    var moveSearchTimer = setInterval(function(){
+    if(moveSearchBar()){
 
-        if(moveSearchBar()){
+        clearInterval(moveSearchTimer);
 
-            clearInterval(moveSearchTimer);
+    }
 
-        }
-
-    },100);
-
-});
+},100);
