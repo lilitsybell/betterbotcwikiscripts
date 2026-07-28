@@ -300,20 +300,30 @@ searchBox.addEventListener("keydown", function(e){
 });
 
 // Move search bar into sidebar
-setInterval(function(){
+function moveSearchBar(){
 
     var search = document.querySelector(".wiki-search");
     var logo = document.querySelector(".header .logo");
 
     if(search && logo){
 
-        if(logo.nextElementSibling !== search){
-
-            logo.insertAdjacentElement("afterend", search);
-
-        }
+        logo.insertAdjacentElement("afterend", search);
 
         search.style.visibility = "visible";
+
+        return true;
+    }
+
+    return false;
+
+}
+
+
+var moveSearchTimer = setInterval(function(){
+
+    if(moveSearchBar()){
+
+        clearInterval(moveSearchTimer);
 
     }
 
