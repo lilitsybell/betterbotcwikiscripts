@@ -1,4 +1,4 @@
-name: Build Script Database
+name: Build Scripts Data
 
 on:
   push:
@@ -6,29 +6,30 @@ on:
       - "scripts/**"
       - "scripts.json"
 
+  workflow_dispatch:
+
+
 jobs:
-
   build:
-
     runs-on: ubuntu-latest
 
     steps:
 
-    - name: Checkout repo
-      uses: actions/checkout@v4
+    - name: Checkout
+      uses: actions/checkout@v5
 
 
     - name: Setup Node
-      uses: actions/setup-node@v4
+      uses: actions/setup-node@v5
       with:
-        node-version: 20
+        node-version: 24
 
 
     - name: Build scripts-data.json
       run: node build-scripts.js
 
 
-    - name: Commit changes
+    - name: Commit generated file
       run: |
         git config --global user.name "github-actions"
         git config --global user.email "github-actions@github.com"
