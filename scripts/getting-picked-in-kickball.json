@@ -3,7 +3,6 @@
     "id": "_meta",
     "author": "Alexis",
     "name": "getting picked in kickball",
-    "isOfficial": false
   },
   "steward",
   "chef",
@@ -34,7 +33,6 @@
     ],
     "ability": "Minions and Demons do not know each other. If a player publicly guesses (once per player) which players are Minion(s) and which is the Demon, their team wins.",
     "flavor": "Aw beans picked last again.",
-    "edition": "Experimental Characters",
     "reminders": [
       "Guessed",
       "Guessed",
