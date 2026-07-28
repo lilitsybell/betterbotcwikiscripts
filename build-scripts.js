@@ -45,3 +45,11 @@ fs.writeFileSync(
 console.log(
     `Built scripts-data.json with ${allScripts.length} scripts`
 );
+
+    } catch (err) {
+
+        console.error("Failed to parse:", script.file);
+        throw err;
+
+    }
+}
