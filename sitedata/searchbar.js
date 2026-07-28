@@ -213,6 +213,9 @@ var characterPages = [
 
 var searchBox = document.getElementById("searchBox");
 var searchResults = document.getElementById("searchResults");
+
+if(searchBox && searchResults){
+
 searchBox.addEventListener("input", function(){
 var searchTerm = searchBox.value.toLowerCase().trim();
     searchResults.innerHTML = "";
@@ -270,11 +273,21 @@ item.onclick = function(){
 
     searchResults.style.display = "block";
 });
+
+}
+    
 document.addEventListener("click", function(e){
+
     var searchArea = document.querySelector(".wiki-search");
-    if(!searchArea.contains(e.target)){
-        searchResults.style.display = "none";
+
+    if(searchArea && searchResults){
+
+        if(!searchArea.contains(e.target)){
+            searchResults.style.display = "none";
+        }
+
     }
+
 });
 
 searchBox.addEventListener("keydown", function(e){
