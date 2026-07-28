@@ -1575,6 +1575,46 @@
   [
     {
       "id": "_meta",
+      "author": "TrashWarlock",
+      "name": "The Ballad of Seat 7"
+    },
+    "noble",
+    "librarian",
+    "shugenja",
+    "balloonist",
+    "villageidiot",
+    "dreamer",
+    "oracle",
+    "innkeeper",
+    "seamstress",
+    "fisherman",
+    "farmer",
+    "virgin",
+    "magician",
+    "drunk",
+    "recluse",
+    "saint",
+    "damsel",
+    "harpy",
+    "boomdandy",
+    "scarletwoman",
+    "boffin",
+    "baron",
+    "pukka",
+    "imp",
+    "vigormortis",
+    "bureaucrat",
+    "harlot",
+    "scapegoat",
+    "gnome",
+    {
+      "id": "_generator",
+      "size": "full"
+    }
+  ],
+  [
+    {
+      "id": "_meta",
       "author": "Zets",
       "name": "The Midnight Oasis",
       "logo": "https://cdn-icons-png.flaticon.com/512/6421/6421037.png"
