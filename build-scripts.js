@@ -1,50 +1,27 @@
 const fs = require("fs");
 
-
-// Load script index
-const scriptList = JSON.parse(
+const scriptFiles = JSON.parse(
     fs.readFileSync("scripts.json", "utf8")
 );
 
-
 let allScripts = [];
 
+for (const script of scriptFiles) {
 
-for (const entry of scriptList) {
+    console.log("Loading:", script.file);
 
+    try {
 
-    // Load the actual script file
-    const data = JSON.parse(
-        fs.readFileSync(entry.file, "utf8")
-    );
+        const data = JSON.parse(
+            fs.readFileSync(script.file, "utf8")
+        );
 
+        data.push({
+            id: "_generator",
+            size: script.size
+        });
 
-    // Add generator metadata
-    data.push({
-
-        id: "_generator",
-
-        size: entry.size || "full"
-
-    });
-
-
-    allScripts.push(data);
-
-
-}
-
-
-
-fs.writeFileSync(
-    "scripts-data.json",
-    JSON.stringify(allScripts, null, 2)
-);
-
-
-console.log(
-    `Built scripts-data.json with ${allScripts.length} scripts`
-);
+        allScripts.push(data);
 
     } catch (err) {
 
@@ -52,4 +29,14 @@ console.log(
         throw err;
 
     }
+
 }
+
+fs.writeFileSync(
+    "scripts-data.json",
+    JSON.stringify(allScripts, null, 2)
+);
+
+console.log(
+    `Built scripts-data.json with ${allScripts.length} scripts`
+);
