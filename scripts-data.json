@@ -1646,6 +1646,30 @@
   [
     {
       "id": "_meta",
+      "author": "Evin Donohoe",
+      "name": "Race to the Bottom"
+    },
+    "clockmaker",
+    "empath",
+    "dreamer",
+    "courtier",
+    "slayer",
+    "mayor",
+    "lunatic",
+    "klutz",
+    "spy",
+    "scarletwoman",
+    "vortox",
+    "doomsayer",
+    "sentinel",
+    {
+      "id": "_generator",
+      "size": "teensy"
+    }
+  ],
+  [
+    {
+      "id": "_meta",
       "author": "Broom",
       "name": "Replication Error",
       "firstNight": [
