@@ -299,7 +299,6 @@ document.addEventListener("click", function(e){
 
 });
 
-// Move search bar into sidebar
 function moveSearchBar(){
 
     var search = document.querySelector(".wiki-search");
@@ -307,15 +306,9 @@ function moveSearchBar(){
 
     if(search && logo){
 
-        // Hide during movement
-        search.style.opacity = "0";
-
         logo.insertAdjacentElement("afterend", search);
 
-        // Show after it is placed
-        setTimeout(function(){
-            search.style.opacity = "1";
-        },50);
+        search.style.opacity = "1";
 
         return true;
 
@@ -326,7 +319,6 @@ function moveSearchBar(){
 }
 
 
-// Keep checking until Weebly finishes loading
 var moveSearchTimer = setInterval(function(){
 
     if(moveSearchBar()){
