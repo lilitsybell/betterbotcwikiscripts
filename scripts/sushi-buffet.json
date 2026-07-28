@@ -1,0 +1,407 @@
+[
+  {
+    "id": "_meta",
+    "name": "Sushi Buffet",
+    "author": "Grimbits.com",
+    "almanac": "https://grimbits.com/draft-buffet/",
+    "background": "https://i.ibb.co/DHdzDGjY/Untitled-Artwork.png",
+    "hideTitle": true,
+    "logo": "https://i.ibb.co/bM4B894D/Untitled-Artwork.png",
+    "bootlegger": [
+      "This script is designed for the Sushi Buffet draft. Each player spins the wheel and picks from 3 random characters. Outsider count may be adjusted dynamically based on characters in play. You may be asked to redraft if the Storyteller decides. Unchosen characters are recycled back into the draft pool — later players may see characters that earlier players rejected.",
+      "Ivory draft: at most one alignment-changing character may be drafted (Lord of Typhon, Mezepheles, Fang Gu, Bounty Hunter, Goon, Cult Leader, Legion, Politician, Ogre, Philosopher, Pit-Hag).",
+      "If Choirboy is drafted, King is automatically added to the game.",
+      "If Huntsman is drafted, Damsel is automatically added to the game.",
+      "Players may mulligan — reject all choices to get fewer new ones. First mulligan gives 2 choices, second gives 1.",
+      "One player may be shown a character they don't actually have. They could be the Drunk, Marionette or Lunatic and not know it.",
+      "Banned Characters: Philosopher, Engineer, Hatter, Pit Hag, Atheist, Heretic, Legion, Amnesiac, Wizard, Politician, Spy"
+    ]
+  },
+  {
+    "id": "washerwoman"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "undertaker"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "virgin"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "soldier"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "butler"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "saint"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "grandmother"
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "chambermaid"
+  },
+  {
+    "id": "exorcist"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "courtier"
+  },
+  {
+    "id": "professor"
+  },
+  {
+    "id": "minstrel"
+  },
+  {
+    "id": "tealady"
+  },
+  {
+    "id": "pacifist"
+  },
+  {
+    "id": "fool"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "moonchild"
+  },
+  {
+    "id": "goon"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "mastermind"
+  },
+  {
+    "id": "zombuul"
+  },
+  {
+    "id": "pukka"
+  },
+  {
+    "id": "shabaloth"
+  },
+  {
+    "id": "po"
+  },
+  {
+    "id": "clockmaker"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "mathematician"
+  },
+  {
+    "id": "flowergirl"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "sage"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "sweetheart"
+  },
+  {
+    "id": "barber"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "eviltwin"
+  },
+  {
+    "id": "witch"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "fanggu"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "vortox"
+  },
+  {
+    "id": "acrobat"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "alsaahir"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "banshee"
+  },
+  {
+    "id": "bountyhunter"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "choirboy"
+  },
+  {
+    "id": "cultleader"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "huntsman"
+  },
+  {
+    "id": "king"
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "lycanthrope"
+  },
+  {
+    "id": "magician"
+  },
+  {
+    "id": "nightwatchman"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "preacher"
+  },
+  {
+    "id": "princess"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "golem"
+  },
+  {
+    "id": "hermit"
+  },
+  {
+    "id": "ogre"
+  },
+  {
+    "id": "plaguedoctor"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "snitch"
+  },
+  {
+    "id": "zealot"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "boomdandy"
+  },
+  {
+    "id": "fearmonger"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "harpy"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "mezepheles"
+  },
+  {
+    "id": "organgrinder"
+  },
+  {
+    "id": "psychopath"
+  },
+  {
+    "id": "summoner"
+  },
+  {
+    "id": "vizier"
+  },
+  {
+    "id": "widow"
+  },
+  {
+    "id": "wraith"
+  },
+  {
+    "id": "xaan"
+  },
+  {
+    "id": "alhadikhia"
+  },
+  {
+    "id": "kazali"
+  },
+  {
+    "id": "leviathan"
+  },
+  {
+    "id": "lilmonsta"
+  },
+  {
+    "id": "lleech"
+  },
+  {
+    "id": "lordoftyphon"
+  },
+  {
+    "id": "ojo"
+  },
+  {
+    "id": "riot"
+  },
+  {
+    "id": "yaggababble"
+  },
+  {
+    "id": "gardener"
+  },
+  {
+    "id": "spiritofivory"
+  }
+]
