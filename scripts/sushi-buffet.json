@@ -17,391 +17,150 @@
       "Banned Characters: Philosopher, Engineer, Hatter, Pit Hag, Atheist, Heretic, Legion, Amnesiac, Wizard, Politician, Spy"
     ]
   },
-  {
-    "id": "washerwoman"
-  },
-  {
-    "id": "librarian"
-  },
-  {
-    "id": "investigator"
-  },
-  {
-    "id": "chef"
-  },
-  {
-    "id": "empath"
-  },
-  {
-    "id": "fortuneteller"
-  },
-  {
-    "id": "undertaker"
-  },
-  {
-    "id": "monk"
-  },
-  {
-    "id": "ravenkeeper"
-  },
-  {
-    "id": "virgin"
-  },
-  {
-    "id": "slayer"
-  },
-  {
-    "id": "soldier"
-  },
-  {
-    "id": "mayor"
-  },
-  {
-    "id": "butler"
-  },
-  {
-    "id": "drunk"
-  },
-  {
-    "id": "recluse"
-  },
-  {
-    "id": "saint"
-  },
-  {
-    "id": "poisoner"
-  },
-  {
-    "id": "scarletwoman"
-  },
-  {
-    "id": "baron"
-  },
-  {
-    "id": "imp"
-  },
-  {
-    "id": "grandmother"
-  },
-  {
-    "id": "sailor"
-  },
-  {
-    "id": "chambermaid"
-  },
-  {
-    "id": "exorcist"
-  },
-  {
-    "id": "innkeeper"
-  },
-  {
-    "id": "gambler"
-  },
-  {
-    "id": "gossip"
-  },
-  {
-    "id": "courtier"
-  },
-  {
-    "id": "professor"
-  },
-  {
-    "id": "minstrel"
-  },
-  {
-    "id": "tealady"
-  },
-  {
-    "id": "pacifist"
-  },
-  {
-    "id": "fool"
-  },
-  {
-    "id": "tinker"
-  },
-  {
-    "id": "moonchild"
-  },
-  {
-    "id": "goon"
-  },
-  {
-    "id": "lunatic"
-  },
-  {
-    "id": "godfather"
-  },
-  {
-    "id": "devilsadvocate"
-  },
-  {
-    "id": "assassin"
-  },
-  {
-    "id": "mastermind"
-  },
-  {
-    "id": "zombuul"
-  },
-  {
-    "id": "pukka"
-  },
-  {
-    "id": "shabaloth"
-  },
-  {
-    "id": "po"
-  },
-  {
-    "id": "clockmaker"
-  },
-  {
-    "id": "dreamer"
-  },
-  {
-    "id": "snakecharmer"
-  },
-  {
-    "id": "mathematician"
-  },
-  {
-    "id": "flowergirl"
-  },
-  {
-    "id": "towncrier"
-  },
-  {
-    "id": "oracle"
-  },
-  {
-    "id": "savant"
-  },
-  {
-    "id": "seamstress"
-  },
-  {
-    "id": "artist"
-  },
-  {
-    "id": "juggler"
-  },
-  {
-    "id": "sage"
-  },
-  {
-    "id": "mutant"
-  },
-  {
-    "id": "sweetheart"
-  },
-  {
-    "id": "barber"
-  },
-  {
-    "id": "klutz"
-  },
-  {
-    "id": "eviltwin"
-  },
-  {
-    "id": "witch"
-  },
-  {
-    "id": "cerenovus"
-  },
-  {
-    "id": "fanggu"
-  },
-  {
-    "id": "vigormortis"
-  },
-  {
-    "id": "nodashii"
-  },
-  {
-    "id": "vortox"
-  },
-  {
-    "id": "acrobat"
-  },
-  {
-    "id": "alchemist"
-  },
-  {
-    "id": "alsaahir"
-  },
-  {
-    "id": "balloonist"
-  },
-  {
-    "id": "banshee"
-  },
-  {
-    "id": "bountyhunter"
-  },
-  {
-    "id": "cannibal"
-  },
-  {
-    "id": "choirboy"
-  },
-  {
-    "id": "cultleader"
-  },
-  {
-    "id": "farmer"
-  },
-  {
-    "id": "fisherman"
-  },
-  {
-    "id": "general"
-  },
-  {
-    "id": "highpriestess"
-  },
-  {
-    "id": "huntsman"
-  },
-  {
-    "id": "king"
-  },
-  {
-    "id": "knight"
-  },
-  {
-    "id": "lycanthrope"
-  },
-  {
-    "id": "magician"
-  },
-  {
-    "id": "nightwatchman"
-  },
-  {
-    "id": "noble"
-  },
-  {
-    "id": "pixie"
-  },
-  {
-    "id": "poppygrower"
-  },
-  {
-    "id": "preacher"
-  },
-  {
-    "id": "princess"
-  },
-  {
-    "id": "shugenja"
-  },
-  {
-    "id": "steward"
-  },
-  {
-    "id": "villageidiot"
-  },
-  {
-    "id": "damsel"
-  },
-  {
-    "id": "golem"
-  },
-  {
-    "id": "hermit"
-  },
-  {
-    "id": "ogre"
-  },
-  {
-    "id": "plaguedoctor"
-  },
-  {
-    "id": "puzzlemaster"
-  },
-  {
-    "id": "snitch"
-  },
-  {
-    "id": "zealot"
-  },
-  {
-    "id": "boffin"
-  },
-  {
-    "id": "boomdandy"
-  },
-  {
-    "id": "fearmonger"
-  },
-  {
-    "id": "goblin"
-  },
-  {
-    "id": "harpy"
-  },
-  {
-    "id": "marionette"
-  },
-  {
-    "id": "mezepheles"
-  },
-  {
-    "id": "organgrinder"
-  },
-  {
-    "id": "psychopath"
-  },
-  {
-    "id": "summoner"
-  },
-  {
-    "id": "vizier"
-  },
-  {
-    "id": "widow"
-  },
-  {
-    "id": "wraith"
-  },
-  {
-    "id": "xaan"
-  },
-  {
-    "id": "alhadikhia"
-  },
-  {
-    "id": "kazali"
-  },
-  {
-    "id": "leviathan"
-  },
-  {
-    "id": "lilmonsta"
-  },
-  {
-    "id": "lleech"
-  },
-  {
-    "id": "lordoftyphon"
-  },
-  {
-    "id": "ojo"
-  },
-  {
-    "id": "riot"
-  },
-  {
-    "id": "yaggababble"
-  },
-  {
-    "id": "gardener"
-  },
-  {
-    "id": "spiritofivory"
-  }
+
+  "washerwoman",
+  "librarian",
+  "investigator",
+  "chef",
+  "empath",
+  "fortuneteller",
+  "undertaker",
+  "monk",
+  "ravenkeeper",
+  "virgin",
+  "slayer",
+  "soldier",
+  "mayor",
+
+  "butler",
+  "drunk",
+  "recluse",
+  "saint",
+
+  "poisoner",
+  "scarletwoman",
+  "baron",
+
+  "imp",
+
+  "grandmother",
+  "sailor",
+  "chambermaid",
+  "exorcist",
+  "innkeeper",
+  "gambler",
+  "gossip",
+  "courtier",
+  "professor",
+  "minstrel",
+  "tealady",
+  "pacifist",
+  "fool",
+
+  "tinker",
+  "moonchild",
+  "goon",
+  "lunatic",
+
+  "godfather",
+  "devilsadvocate",
+  "assassin",
+  "mastermind",
+
+  "zombuul",
+  "pukka",
+  "shabaloth",
+  "po",
+
+  "clockmaker",
+  "dreamer",
+  "snakecharmer",
+  "mathematician",
+  "flowergirl",
+  "towncrier",
+  "oracle",
+  "savant",
+  "seamstress",
+  "artist",
+  "juggler",
+  "sage",
+
+  "mutant",
+  "sweetheart",
+  "barber",
+  "klutz",
+
+  "eviltwin",
+  "witch",
+  "cerenovus",
+
+  "fanggu",
+  "vigormortis",
+  "nodashii",
+  "vortox",
+
+  "acrobat",
+  "alchemist",
+  "alsaahir",
+  "balloonist",
+  "banshee",
+  "bountyhunter",
+  "cannibal",
+  "choirboy",
+  "cultleader",
+  "farmer",
+  "fisherman",
+  "general",
+  "highpriestess",
+  "huntsman",
+  "king",
+  "knight",
+  "lycanthrope",
+  "magician",
+  "nightwatchman",
+  "noble",
+  "pixie",
+  "poppygrower",
+  "preacher",
+  "princess",
+  "shugenja",
+  "steward",
+  "villageidiot",
+
+  "damsel",
+  "golem",
+  "hermit",
+  "ogre",
+  "plaguedoctor",
+  "puzzlemaster",
+  "snitch",
+  "zealot",
+
+  "boffin",
+  "boomdandy",
+  "fearmonger",
+  "goblin",
+  "harpy",
+  "marionette",
+  "mezepheles",
+  "organgrinder",
+  "psychopath",
+  "summoner",
+  "vizier",
+  "widow",
+  "wraith",
+  "xaan",
+
+  "alhadikhia",
+  "kazali",
+  "leviathan",
+  "lilmonsta",
+  "lleech",
+  "lordoftyphon",
+  "ojo",
+  "riot",
+  "yaggababble",
+
+  "gardener",
+  "spiritofivory"
 ]
