@@ -1250,6 +1250,28 @@
   [
     {
       "id": "_meta",
+      "author": "Steven Medway",
+      "name": "Laissez un Faire"
+    },
+    "balloonist",
+    "savant",
+    "amnesiac",
+    "fisherman",
+    "artist",
+    "cannibal",
+    "mutant",
+    "lunatic",
+    "widow",
+    "goblin",
+    "leviathan",
+    {
+      "id": "_generator",
+      "size": "full"
+    }
+  ],
+  [
+    {
+      "id": "_meta",
       "author": "Ekin",
       "name": "Lunar Eclipse v1.6"
     },
