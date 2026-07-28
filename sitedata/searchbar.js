@@ -1,17 +1,3 @@
-document.addEventListener("DOMContentLoaded", function(){
-
-    var sidebar = document.querySelector(".header .container");
-    var search = document.querySelector(".wiki-search");
-    var logo = document.querySelector(".header .logo");
-
-    if(sidebar && search && logo){
-
-        logo.insertAdjacentElement("afterend", search);
-
-    }
-
-});
-
 var exceptions = {
 
     "Devil's Advocate": "devils-advocate.html",
@@ -304,8 +290,8 @@ searchBox.addEventListener("keydown", function(e){
 setInterval(function(){
 
     var search = document.querySelector(".wiki-search");
-    var logo = document.querySelector(".logo");
-    
+    var logo = document.querySelector(".header .logo");
+
     if(search && logo){
 
         if(logo.nextElementSibling !== search){
@@ -316,6 +302,5 @@ setInterval(function(){
 
     }
 
-}, 500);
-
+},500);
 
