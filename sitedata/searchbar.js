@@ -312,6 +312,7 @@ function moveSearchBar(){
         search.style.visibility = "visible";
 
         return true;
+
     }
 
     return false;
@@ -319,12 +320,17 @@ function moveSearchBar(){
 }
 
 
-var moveSearchTimer = setInterval(function(){
+// Wait for Weebly to finish loading
+document.addEventListener("DOMContentLoaded", function(){
 
-    if(moveSearchBar()){
+    var moveSearchTimer = setInterval(function(){
 
-        clearInterval(moveSearchTimer);
+        if(moveSearchBar()){
 
-    }
+            clearInterval(moveSearchTimer);
 
-},100);
+        }
+
+    },100);
+
+});
