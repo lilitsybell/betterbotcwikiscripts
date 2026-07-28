@@ -1266,7 +1266,7 @@
     "leviathan",
     {
       "id": "_generator",
-      "size": "full"
+      "size": "teensy"
     }
   ],
   [
@@ -1339,6 +1339,37 @@
     {
       "id": "_generator",
       "size": "full"
+    }
+  ],
+  [
+    {
+      "id": "_meta",
+      "author": "Brockwell",
+      "name": "Nobody Fucking Move",
+      "bootlegger": [
+        "Optional rule: The Alchemist has a not-in-play Minion ability."
+      ]
+    },
+    "snakecharmer",
+    "alsaahir",
+    "slayer",
+    "philosopher",
+    "alchemist",
+    "virgin",
+    "heretic",
+    "damsel",
+    "klutz",
+    "psychopath",
+    "goblin",
+    "boomdandy",
+    "pukka",
+    "vortox",
+    "bootlegger",
+    "duchess",
+    "sentinel",
+    {
+      "id": "_generator",
+      "size": "teensy"
     }
   ],
   [
