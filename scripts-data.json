@@ -929,6 +929,41 @@
   [
     {
       "id": "_meta",
+      "author": "Jack Broome",
+      "name": "Half-of-the-108"
+    },
+    "washerwoman",
+    "librarian",
+    "investigator",
+    "chef",
+    "empath",
+    "fortuneteller",
+    "undertaker",
+    "monk",
+    "ravenkeeper",
+    "virgin",
+    "slayer",
+    "soldier",
+    "mayor",
+    "butler",
+    "drunk",
+    "recluse",
+    "saint",
+    "poisoner",
+    "spy",
+    "baron",
+    "scarletwoman",
+    "legion",
+    "imp",
+    "vortox",
+    {
+      "id": "_generator",
+      "size": "full"
+    }
+  ],
+  [
+    {
+      "id": "_meta",
       "author": "Theo",
       "name": "Harold Holt's Revenge"
     },
@@ -955,6 +990,41 @@
     "goblin",
     "marionette",
     "leviathan",
+    {
+      "id": "_generator",
+      "size": "full"
+    }
+  ],
+  [
+    {
+      "id": "_meta",
+      "author": "Urban Minotaur",
+      "name": "Hell's Chili Cookoff"
+    },
+    "washerwoman",
+    "pixie",
+    "king",
+    "dreamer",
+    "flowergirl",
+    "oracle",
+    "undertaker",
+    "seamstress",
+    "philosopher",
+    "artist",
+    "choirboy",
+    "mayor",
+    "poppygrower",
+    "drunk",
+    "saint",
+    "mutant",
+    "damsel",
+    "mezepheles",
+    "godfather",
+    "boomdandy",
+    "scarletwoman",
+    "pukka",
+    "vortox",
+    "legion",
     {
       "id": "_generator",
       "size": "full"
@@ -1027,6 +1097,43 @@
   [
     {
       "id": "_meta",
+      "author": "Narninian & Zaba",
+      "name": "Hide and Seek",
+      "logo": "https://i.imgur.com/fI4906v.png"
+    },
+    "noble",
+    "librarian",
+    "pixie",
+    "preacher",
+    "towncrier",
+    "oracle",
+    "undertaker",
+    "dreamer",
+    "seamstress",
+    "artist",
+    "huntsman",
+    "ravenkeeper",
+    "virgin",
+    "damsel",
+    "drunk",
+    "mutant",
+    "goon",
+    "godfather",
+    "mezepheles",
+    "poisoner",
+    "cerenovus",
+    "pukka",
+    "vigormortis",
+    "imp",
+    "ojo",
+    {
+      "id": "_generator",
+      "size": "full"
+    }
+  ],
+  [
+    {
+      "id": "_meta",
       "author": "Urban Minotaur",
       "name": "Immortal Dance Party"
     },
@@ -1054,6 +1161,46 @@
     "shabaloth",
     "po",
     "alhadikhia",
+    {
+      "id": "_generator",
+      "size": "full"
+    }
+  ],
+  [
+    {
+      "id": "_meta",
+      "author": "Urban Minotaur",
+      "name": "Kingdom Come",
+      "bootlegger": [
+        "The Vizier can only be in play if there are two or more Minions in the game."
+      ]
+    },
+    "steward",
+    "knight",
+    "noble",
+    "pixie",
+    "general",
+    "chambermaid",
+    "king",
+    "oracle",
+    "undertaker",
+    "fisherman",
+    "princess",
+    "soldier",
+    "farmer",
+    "choirboy",
+    "ogre",
+    "saint",
+    "mutant",
+    "heretic",
+    "poisoner",
+    "witch",
+    "marionette",
+    "vizier",
+    "imp",
+    "zenomancer",
+    "bootlegger",
+    "sentinel",
     {
       "id": "_generator",
       "size": "full"
@@ -1489,6 +1636,82 @@
   [
     {
       "id": "_meta",
+      "author": "McGiggles",
+      "name": "Social Strings V2.2"
+    },
+    "noble",
+    "shugenja",
+    "pixie",
+    "highpriestess",
+    "villageidiot",
+    "snakecharmer",
+    "fisherman",
+    "seamstress",
+    "philosopher",
+    "magician",
+    "ravenkeeper",
+    "cannibal",
+    "mayor",
+    "ogre",
+    "damsel",
+    "drunk",
+    "lunatic",
+    "cerenovus",
+    "baron",
+    "goblin",
+    "marionette",
+    "lleech",
+    "nodashii",
+    "imp",
+    "thief",
+    "bureaucrat",
+    "harlot",
+    "bonecollector",
+    "scapegoat",
+    "bootlegger",
+    "spiritofivory",
+    {
+      "id": "_generator",
+      "size": "full"
+    }
+  ],
+  [
+    {
+      "id": "_meta",
+      "author": "",
+      "name": "Strings Pulling"
+    },
+    "investigator",
+    "chef",
+    "washerwoman",
+    "librarian",
+    "empath",
+    "fortuneteller",
+    "undertaker",
+    "monk",
+    "slayer",
+    "soldier",
+    "ravenkeeper",
+    "virgin",
+    "mayor",
+    "butler",
+    "saint",
+    "recluse",
+    "drunk",
+    "poisoner",
+    "spy",
+    "baron",
+    "scarletwoman",
+    "marionette",
+    "imp",
+    {
+      "id": "_generator",
+      "size": "full"
+    }
+  ],
+  [
+    {
+      "id": "_meta",
       "name": "Sushi Buffet",
       "author": "Grimbits.com",
       "almanac": "https://grimbits.com/draft-buffet/",
@@ -1909,6 +2132,47 @@
     "gangster",
     "voudon",
     "sentinel",
+    {
+      "id": "_generator",
+      "size": "full"
+    }
+  ],
+  [
+    {
+      "id": "_meta",
+      "author": "Axolator",
+      "name": "Tour"
+    },
+    "washerwoman",
+    "librarian",
+    "noble",
+    "empath",
+    "dreamer",
+    "fortuneteller",
+    "towncrier",
+    "oracle",
+    "undertaker",
+    "seamstress",
+    "slayer",
+    "soldier",
+    "ravenkeeper",
+    "recluse",
+    "zealot",
+    "barber",
+    "drunk",
+    "godfather",
+    "spy",
+    "assassin",
+    "scarletwoman",
+    "pukka",
+    "nodashii",
+    "imp",
+    "ojo",
+    "thief",
+    "bureaucrat",
+    "gunslinger",
+    "judge",
+    "scapegoat",
     {
       "id": "_generator",
       "size": "full"
