@@ -7,7 +7,8 @@ on:
       - "scripts.json"
 
   workflow_dispatch:
-
+permissions:
+  contents: write
 
 jobs:
   build:
