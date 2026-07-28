@@ -2283,6 +2283,40 @@
   [
     {
       "id": "_meta",
+      "author": "Matt",
+      "name": "Uncertain Death"
+    },
+    "clockmaker",
+    "grandmother",
+    "librarian",
+    "empath",
+    "fortuneteller",
+    "exorcist",
+    "flowergirl",
+    "oracle",
+    "undertaker",
+    "artist",
+    "slayer",
+    "seamstress",
+    "monk",
+    "lunatic",
+    "mutant",
+    "sweetheart",
+    "recluse",
+    "godfather",
+    "assassin",
+    "scarletwoman",
+    "marionette",
+    "nodashii",
+    "pukka",
+    {
+      "id": "_generator",
+      "size": "full"
+    }
+  ],
+  [
+    {
+      "id": "_meta",
       "author": "Urban Minotaur",
       "name": "Unholier Than Thou"
     },
