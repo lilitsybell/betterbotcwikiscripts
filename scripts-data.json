@@ -1395,6 +1395,48 @@
   [
     {
       "id": "_meta",
+      "author": "Manny",
+      "name": "Outed Evil"
+    },
+    "sailor",
+    "general",
+    "snakecharmer",
+    "fortuneteller",
+    "savant",
+    "philosopher",
+    "huntsman",
+    "fisherman",
+    "juggler",
+    "alchemist",
+    "cannibal",
+    "tealady",
+    "poppygrower",
+    "lunatic",
+    "barber",
+    "politician",
+    "damsel",
+    "heretic",
+    "poisoner",
+    "fearmonger",
+    "psychopath",
+    "wizard",
+    "goblin",
+    "imp",
+    "lleech",
+    "thief",
+    "bureaucrat",
+    "butcher",
+    "apprentice",
+    "deviant",
+    "sentinel",
+    {
+      "id": "_generator",
+      "size": "full"
+    }
+  ],
+  [
+    {
+      "id": "_meta",
       "author": "Ryback",
       "name": "Pies Baking"
     },
