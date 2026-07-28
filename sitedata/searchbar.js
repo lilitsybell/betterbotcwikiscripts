@@ -309,7 +309,7 @@ function moveSearchBar(){
 
         logo.insertAdjacentElement("afterend", search);
 
-        search.style.visibility = "visible";
+        search.style.opacity = "1";
 
         return true;
 
