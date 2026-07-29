@@ -1363,6 +1363,28 @@
   [
     {
       "id": "_meta",
+      "author": "Quizoid",
+      "name": "Loose Lips (Beginner Script)"
+    },
+    "clockmaker",
+    "investigator",
+    "chef",
+    "empath",
+    "sage",
+    "soldier",
+    "saint",
+    "drunk",
+    "poisoner",
+    "godfather",
+    "imp",
+    {
+      "id": "_generator",
+      "size": "teensy"
+    }
+  ],
+  [
+    {
+      "id": "_meta",
       "author": "Ekin",
       "name": "Lunar Eclipse v1.6"
     },
