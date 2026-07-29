@@ -3276,6 +3276,29 @@
   [
     {
       "id": "_meta",
+      "author": "",
+      "name": "Vigormortis High School"
+    },
+    "chef",
+    "empath",
+    "chambermaid",
+    "monk",
+    "ravenkeeper",
+    "mayor",
+    "saint",
+    "goon",
+    "poisoner",
+    "devilsadvocate",
+    "vigormortis",
+    "sentinel",
+    {
+      "id": "_generator",
+      "size": "teensy"
+    }
+  ],
+  [
+    {
+      "id": "_meta",
       "author": "Aero",
       "name": "Whose Cult Is It Anyway?"
     },
