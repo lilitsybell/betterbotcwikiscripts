@@ -1338,6 +1338,31 @@
   [
     {
       "id": "_meta",
+      "author": "Aero",
+      "name": "Late Night Drive By"
+    },
+    "snakecharmer",
+    "lycanthrope",
+    "slayer",
+    "fool",
+    "alchemist",
+    "minstrel",
+    "tinker",
+    "recluse",
+    "golem",
+    "godfather",
+    "psychopath",
+    "scarletwoman",
+    "pukka",
+    "imp",
+    {
+      "id": "_generator",
+      "size": "teensy"
+    }
+  ],
+  [
+    {
+      "id": "_meta",
       "author": "Ekin",
       "name": "Lunar Eclipse v1.6"
     },
