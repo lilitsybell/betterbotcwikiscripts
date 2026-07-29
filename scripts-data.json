@@ -1241,6 +1241,29 @@
   [
     {
       "id": "_meta",
+      "author": "Simon",
+      "name": "I'm your demon now."
+    },
+    "chambermaid",
+    "snakecharmer",
+    "seamstress",
+    "philosopher",
+    "soldier",
+    "alchemist",
+    "puzzlemaster",
+    "lunatic",
+    "harpy",
+    "goblin",
+    "kazali",
+    "duchess",
+    {
+      "id": "_generator",
+      "size": "teensy"
+    }
+  ],
+  [
+    {
+      "id": "_meta",
       "author": "Urban Minotaur",
       "name": "Immortal Dance Party"
     },
