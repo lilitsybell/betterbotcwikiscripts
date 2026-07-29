@@ -846,6 +846,29 @@
   [
     {
       "id": "_meta",
+      "author": "Ted",
+      "name": "Frankenstein's Mayor"
+    },
+    "chef",
+    "undertaker",
+    "oracle",
+    "sage",
+    "ravenkeeper",
+    "mayor",
+    "recluse",
+    "lunatic",
+    "poisoner",
+    "spy",
+    "zombuul",
+    "sentinel",
+    {
+      "id": "_generator",
+      "size": "teensy"
+    }
+  ],
+  [
+    {
+      "id": "_meta",
       "author": "Amir (Swolemate)",
       "name": "From the Depths",
       "bootlegger": [
