@@ -911,6 +911,26 @@
   [
     {
       "id": "_meta",
+      "author": "McGiggles",
+      "name": "Gaslight, Gatekeep, Giggle"
+    },
+    "steward",
+    "highpriestess",
+    "villageidiot",
+    "seamstress",
+    "philosopher",
+    "damsel",
+    "lunatic",
+    "marionette",
+    "imp",
+    {
+      "id": "_generator",
+      "size": "full"
+    }
+  ],
+  [
+    {
+      "id": "_meta",
       "author": "Alexis",
       "name": "getting picked in kickball"
     },
