@@ -39,6 +39,7 @@
 {"file": "scripts/separation-of-church-and-state.json","size": "full"},
 {"file": "scripts/show-of-hands.json","size": "full"},
 {"file": "scripts/social-strings.json","size": "full"},
+{"file": "scripts/spooky-tea.json","size": "teensy"},
 {"file": "scripts/strings-pulling.json","size": "full"},
 {"file": "scripts/sushi-buffet.json","size": "full"},
 {"file": "scripts/the-autopsy.json","size": "full"},
