@@ -3145,6 +3145,28 @@
   [
     {
       "id": "_meta",
+      "author": "Nadine",
+      "name": "Twinning / Nadinesyville"
+    },
+    "artist",
+    "snakecharmer",
+    "fortuneteller",
+    "philosopher",
+    "seamstress",
+    "ravenkeeper",
+    "lunatic",
+    "drunk",
+    "eviltwin",
+    "spy",
+    "imp",
+    {
+      "id": "_generator",
+      "size": "teensy"
+    }
+  ],
+  [
+    {
+      "id": "_meta",
       "author": "Matt",
       "name": "Uncertain Death"
     },
